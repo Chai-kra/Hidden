@@ -1,0 +1,7 @@
+C001	Category 1
+C002	Category 2
+
+P001	Product 1	1.00	C001
+P002	Product 2	2.00	C001
+P003	Product 3	3.00	C002
+P004	Product 4	4.00	C002
